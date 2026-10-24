@@ -1,0 +1,26 @@
+{
+  "python_version": "3.11.16",
+  "environment_name": "pfizer-vaccine",
+  "package_versions": {
+    "numpy": "2.4.6",
+    "pandas": "3.0.6",
+    "pyarrow": "25.0.0",
+    "scipy": "1.17.1",
+    "scikit-learn": "1.9.1",
+    "statsmodels": "0.15.0",
+    "torch": "2.14.1",
+    "transformers": null,
+    "ablang2": "0.1.1",
+    "sadie-antibody": null,
+    "matplotlib": "3.11.2"
+  },
+  "module_import_spec_available": {
+    "sadie": false,
+    "transformers": false,
+    "torch": true,
+    "sklearn": true,
+    "statsmodels": true,
+    "ablang2": true
+  },
+  "note": "Current environment inventory only. Not verified as the historical analysis environment or an end-to-end reproduction."
+}
