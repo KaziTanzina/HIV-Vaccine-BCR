@@ -1,6 +1,6 @@
 # HIV vaccine BCR reanalysis — reproducibility package
 
-STATUS: PRIVATE PREPUBLICATION REVIEW.
+STATUS: PUBLIC SELECTED-SCRIPT RELEASE; NOT A VALIDATED END-TO-END PIPELINE.
 
 Authors:
 Kazi Tanzina Begum
@@ -103,10 +103,12 @@ The original manuscript figure is unchanged.
 No original third-party sequence-level dataset
 or participant-level source table is included.
 
-The publication permissions and disclosure risk
-for processed data remain to be reviewed.
-
-This is not an authorized public data release.
+Fourteen selected aggregate tables are separately
+available under data/aggregate_release_candidate/.
+No original participant-level or sequence-level
+data are redistributed. Public availability does
+not constitute formal privacy certification or
+grant reuse rights to third-party source data.
 
 ## Code release status
 
@@ -122,4 +124,6 @@ The antibody-language-model benchmarks require
 additional model-specific resources and are not
 reproduced by these primary-analysis scripts.
 
-No GitHub publication or release has occurred.
+These selected scripts are publicly accessible
+through the HIV-Vaccine-BCR GitHub repository.
+A clean-room end-to-end rerun is not certified.

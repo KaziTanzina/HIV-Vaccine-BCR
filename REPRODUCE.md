@@ -50,6 +50,7 @@ The current pfizer-vaccine environment differs and is
 missing some dependencies used in historical scripts.
 
 Additional upstream dependencies and exact execution
-instructions require validation before publication.
+instructions require validation for a fully
+independent end-to-end reproduction.
 
 Do not claim end-to-end reproduction at this stage.
