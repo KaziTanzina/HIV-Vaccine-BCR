@@ -1,0 +1,2 @@
+participants	group1_participants	group2_participants	targets	permutations	within_target_thrifty_coefficient	weighted_r_squared	raw_same_subset_statistic	raw_same_subset_permutation_p	thrifty_adjusted_statistic	thrifty_adjusted_permutation_p
+15	7	8	19	6435	0.5987398880112523	0.419747289343667	0.003758170504043767	0.0024864024864024864	0.003882006494371713	0.00202020202020202

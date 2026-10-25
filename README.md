@@ -50,7 +50,7 @@ https://doi.org/10.5281/zenodo.15425848
 
 ## Reproducibility status
 
-This repository is a private publication-release draft.
+This repository contains independently developed analysis code, publication figures, and selected derived aggregate results from a secondary HIV vaccine BCR study.
 
 The copied scripts and figure files are checksum verified.
 End-to-end reproducibility is not yet certified.
@@ -69,4 +69,4 @@ remain subject to their own applicable terms.
 
 The license does not automatically authorize
 redistribution of third-party data, models, or figures.
-The repository remains a private release draft.
+Original G002 sequence-level and participant-level records are not redistributed in this repository.

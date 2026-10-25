@@ -19,3 +19,11 @@ author-released dataset by SHA256.
 The independent analysis scripts in this repository
 were copied without modification from the verified
 private 22-script review package.
+
+An additional selected primary-analysis package is
+provided under `reproducibility/primary_analysis/`.
+It contains 11 checksum-verified scripts and centering
+documentation. The 11 scripts are not necessarily
+distinct from the earlier 22-script selection.
+The 14 derived aggregate tables are provided under
+`data/aggregate_release_candidate/`.

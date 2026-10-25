@@ -5,7 +5,8 @@
 Copyright (c) 2026, Kazi Tanzina Begum
 
 The independently authored Python scripts under
-`scripts/` are licensed under BSD 2-Clause.
+`scripts/` and `reproducibility/primary_analysis/scripts/`
+are licensed under BSD 2-Clause.
 
 SPDX identifier: BSD-2-Clause.
 
@@ -21,13 +22,14 @@ licensing and data-use conditions.
 
 ## Figures and derived data
 
-Redistribution terms for the manuscript figures,
-derived research tables, and third-party resources
-require separate review.
+The derived aggregate tables and manuscript figures are
+made available as research outputs. The BSD 2-Clause
+software license does not automatically apply to
+figures, tables, or original third-party data.
 
 ## Release status
 
-The code license is selected, but this repository
-has not been approved for public release.
-
-Reproducibility and redistribution checks remain.
+The intended public scope includes independently authored
+code, selected aggregate tables, and publication figures.
+The released materials are not a fully validated
+end-to-end reproduction environment.
